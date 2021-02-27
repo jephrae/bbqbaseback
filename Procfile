@@ -1,0 +1,1 @@
+web: gunicorn bbqbaseback_django.wsgi
